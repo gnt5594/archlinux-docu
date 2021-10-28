@@ -69,7 +69,7 @@ Name=ens33 [Network] DHCP=yes
 ### Install ssh and get into class gateway
 
 - pacman -Sy openssh
-- ssh -pt53997 gnt53997@129.244.245.21 and enter password
+- ssh -p53997 gnt5594@129.244.245.21 and enter password
 
 ### Add color code to terminal
 
